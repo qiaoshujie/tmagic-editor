@@ -906,6 +906,9 @@ importers:
 
   runtime/vue3:
     dependencies:
+      '@element-plus/icons-vue':
+        specifier: ^2.0.9
+        version: 2.0.9(vue@3.3.4)
       '@tmagic/cli':
         specifier: 1.3.0-alpha.4
         version: link:../../packages/cli
